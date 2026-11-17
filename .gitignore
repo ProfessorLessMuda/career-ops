@@ -35,3 +35,6 @@ node_modules/
 .claude/settings.local.json
 .claude/memory/
 career-dashboard
+# Added 2026-11-16 (pending-work review, approved by Marck)
+cv.md
+.claude/launch.json
